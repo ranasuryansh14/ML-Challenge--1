@@ -1,3 +1,3 @@
 Logistic Regression Accuracy: 84.62%
-SVM (Linear) Accuracy: 87.18%
-KNN Accuracy: 89.74%
+SVM (Linear Kernel) Accuracy: 87.18%
+K-Nearest Neighbors Accuracy: 89.74%

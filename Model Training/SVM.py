@@ -5,10 +5,10 @@ from sklearn.metrics import accuracy_score
 
 
 # Load preprocessed data
-X_train = np.load("X_train.npy")
-X_test = np.load("X_test.npy")
-y_train = np.load("y_train.npy")
-y_test = np.load("y_test.npy")
+X_train = np.load(".npy/X_train.npy")
+X_test = np.load(".npy/X_test.npy")
+y_train = np.load(".npy/y_train.npy")
+y_test = np.load(".npy/y_test.npy")
 
 # Train SVM Model (Linear Kernel)
 model = SVC(kernel="linear")

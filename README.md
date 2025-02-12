@@ -39,6 +39,13 @@ Before starting the analysis, perform basic research on Parkinson’s disease, i
 
 ---
 
+## Accuracy 
+- Logistic Regression Accuracy: 84.62%
+- SVM (Linear) Accuracy: 87.18%
+- KNN Accuracy: 89.74%
+
+
+
 ## Installation & Setup
 1. Clone the repository:
    ```sh
